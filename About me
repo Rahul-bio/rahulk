@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- HEAD -->
+<head>
+<meta charset="utf-8">
+<title> Rahul K Verma </title>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="">
+<meta name="description" content="">
+</head>
+
+<!-- HEADEAR -->
+<header>
+<section class="container">
+<div class = "menu">
+<a style="color:orange" class="current-page" href="index.html"> <span> Home </span> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a style="color:orange" href="cv.html"> <span> About me </span> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a style="color:orange" href="pres.html"> <span> Talks & Participations  </span> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a style="color:orange" href="pubbl.html"> <span> Pubblications & Preprints  </span> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a style="color:orange" href="teaching.html"> <span> Teaching </span> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a style="color:orange" href="others.html"> <span> Others </span> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</section>
+</header>
+
+	
+<!-- SECTIONS -->	
+<section class="container">
+<div class="contact">
+<h2>Current position</h2>		
+I'm a third year Ph.D. student at <a style="color:skyblue" href="https://http://www.iiti.ac.in/" target="_blank">Indian Institute of Technology Indore</a> 
+with a CSIR-UGC fellowship under by Prof. <a style="color:skyblue" href="http://http://www.iiti.ac.in/people/~sarika/" target="_blank">Sarika Jalan</a>.	
+<br>
+<hr>
+<h2> Education </h2>
+<p><li> M.Sc. in Biotechnology, Jawaharlal Nehru University, New Delhi.
+Thesis: 
+</li>
+<br>
+<p><li> B.Sc. in Biotechnology, Devi Ahilya Vishwavidyalaya, Indore.
+<br>
+<hr>
+For further information: <a style="color:orange" href="" target="_blank">Curriculum Vitae</a>.
+</div>
+</section>
+</body>
+</html>
