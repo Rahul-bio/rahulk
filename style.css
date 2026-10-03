@@ -1,7 +1,7 @@
 .cropped-image {
   /* Set your desired crop dimensions */
-  width: 230px;
-  height: 230px;
+  width: 200px;
+  height: 200px;
   
   /* Magic property that triggers the crop */
   object-fit: cover; 
